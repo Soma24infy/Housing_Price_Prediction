@@ -25,8 +25,8 @@ We build a regression model using regularisation in order to predict the actual 
 
 ## Final model prediction
    
-Mean Square Error (MSE) Ridge 0.002086 	
-Mean Square Error (MSE) Lasso 0.002057
+ - Mean Square Error (MSE) Ridge 0.002086 	
+ - Mean Square Error (MSE) Lasso 0.002057
 
 
 ## Python Libraries Used
